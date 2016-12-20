@@ -1,2 +1,2 @@
 # Achtung, die curve!
-A simple C/Gtk+ game. Writen as a C course final project (winter 2015).
+A simple C/Gtk+ game. Written as a C course final project (winter 2015).
